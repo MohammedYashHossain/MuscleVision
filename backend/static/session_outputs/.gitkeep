@@ -1,0 +1,2 @@
+# This file ensures the session_outputs directory is tracked in git
+# Generated session images will be stored here but not committed 
